@@ -10,6 +10,7 @@ This project is a user management system. We can add, edit or delete user.
 
 ### Execution
 Run the app.py: ```python3 app.py```
+
 ![UserManagement](https://user-images.githubusercontent.com/62619786/170845284-88b5e22a-8421-4c35-b6d9-1fefb14940e0.gif)
 
 ## Software Testing

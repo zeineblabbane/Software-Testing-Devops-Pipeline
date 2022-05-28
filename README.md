@@ -13,7 +13,7 @@ Run the app.py
 ```bash
    python3 app.py
 ```
-https://user-images.githubusercontent.com/62619786/170844913-f4eea997-1eb6-4f85-b5ae-1744d65e031b.mp4
+![UserManagement](https://user-images.githubusercontent.com/62619786/170845284-88b5e22a-8421-4c35-b6d9-1fefb14940e0.gif)
 
 ## Software Testing
 - Unit Testing: ```bash tests/unit-tests  ```

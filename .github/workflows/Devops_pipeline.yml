@@ -42,6 +42,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/conference-app:${{ github.sha }}
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/user-management:${{ github.sha }}
 
   

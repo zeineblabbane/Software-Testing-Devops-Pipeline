@@ -1,4 +1,3 @@
-from itsdangerous import json
 import pytest
 import os
 from app import create_app

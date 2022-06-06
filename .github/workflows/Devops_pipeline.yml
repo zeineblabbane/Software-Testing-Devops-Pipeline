@@ -18,9 +18,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements-dev.txt
       - name: Unit test
-        run: coverage run -m unittest tests/unit_tests/test_app.py 
+        run: coverage run -m unittest tests/unit-tests/test_app.py 
       - name: Integration test
-        run: coverage run -m pytest "tests/integration_tests/test_integration_app.py"
+        run: coverage run -m pytest "tests/integration-tests/test_integration_app.py"
 
   Build:
     runs-on: ubuntu-latest

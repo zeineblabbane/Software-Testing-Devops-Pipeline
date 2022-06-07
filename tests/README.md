@@ -27,6 +27,6 @@ Running these tests have provided the following results:
 ```bash
    coverage run -m pytest .\tests\e2e-tests\test_e2e_app.py
 ```
-![e2e](https://user-images.githubusercontent.com/62619786/172411408-8fa192d3-b845-4658-9f8a-b8253f418dfe.PNG)
+![e2e](https://user-images.githubusercontent.com/62619786/172416130-e4c53d32-fc99-4991-87cb-5c638b57fdf2.PNG)
 
 # UAT

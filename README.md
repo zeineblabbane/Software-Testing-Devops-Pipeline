@@ -9,7 +9,7 @@ Run below command to install all dependencies
 ```
 **SQLite** - I used sqlite3 for the database. It is initialised with: 
 ```bash
-   create_db.py
+   python3 create_db.py
 ```
 ### Execution
 Run the app.py: 
